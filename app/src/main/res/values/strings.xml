@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">multimedia</string>
+    <string name="button_audio">Reproducir Audio</string>
+    <string name="button_video1">Reproducir Video 1</string>
+    <string name="button_video2">Reproducir Video 2</string>
+    <string name="button_video3">Reproducir Video 3</string>
+    <string name="button_camera">Abrir Cámara</string>
+    <string name="audio_playing">Reproduciendo Audio</string>
+    <string name="camera_take_photo">Tomar Foto</string>
+</resources>
